@@ -18,7 +18,7 @@ El programa es un juego de cartas aplicables utilizando el patron "Decorator" y 
 
 ## Instalación y Ejecución
 
-### Pre-rrequisitos
+### Pre-rrequisitos 
 | Componente | Enlace |
 |------------|--------|
 | .NET 8.0 SDK | [Descargar aquí](https://dotnet.microsoft.com/download) |
