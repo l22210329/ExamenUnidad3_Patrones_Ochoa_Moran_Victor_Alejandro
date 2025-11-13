@@ -1,0 +1,14 @@
+D:\VISUALSTUDIO\Exa_Patrones_3\Examen 3\obj\Debug\net8.0\Examen 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUALSTUDIO\Exa_Patrones_3\Examen 3\obj\Debug\net8.0\Examen 3.AssemblyInfoInputs.cache
+D:\VISUALSTUDIO\Exa_Patrones_3\Examen 3\obj\Debug\net8.0\Examen 3.AssemblyInfo.cs
+D:\VISUALSTUDIO\Exa_Patrones_3\Examen 3\obj\Debug\net8.0\Examen 3.csproj.CoreCompileInputs.cache
+d:\VISUALSTUDIO\Exa_Patrones_3\Examen 3\bin\Debug\net8.0\Examen 3.exe
+d:\VISUALSTUDIO\Exa_Patrones_3\Examen 3\bin\Debug\net8.0\Examen 3.deps.json
+d:\VISUALSTUDIO\Exa_Patrones_3\Examen 3\bin\Debug\net8.0\Examen 3.runtimeconfig.json
+d:\VISUALSTUDIO\Exa_Patrones_3\Examen 3\bin\Debug\net8.0\Examen 3.dll
+d:\VISUALSTUDIO\Exa_Patrones_3\Examen 3\bin\Debug\net8.0\Examen 3.pdb
+d:\VISUALSTUDIO\Exa_Patrones_3\Examen 3\obj\Debug\net8.0\Examen 3.dll
+d:\VISUALSTUDIO\Exa_Patrones_3\Examen 3\obj\Debug\net8.0\refint\Examen 3.dll
+d:\VISUALSTUDIO\Exa_Patrones_3\Examen 3\obj\Debug\net8.0\Examen 3.pdb
+d:\VISUALSTUDIO\Exa_Patrones_3\Examen 3\obj\Debug\net8.0\Examen 3.genruntimeconfig.cache
+d:\VISUALSTUDIO\Exa_Patrones_3\Examen 3\obj\Debug\net8.0\ref\Examen 3.dll
